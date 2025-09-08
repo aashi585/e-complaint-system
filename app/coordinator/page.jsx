@@ -14,7 +14,7 @@ export default function CoordinatorDashboard() {
   const [complaints, setComplaints] = useState([
     {
       id: "CMP001",
-      title: "Library WiFi Issues",
+      title: "Library WiFi Problems test",
       student: "Aashi (2021CS001)",
       category: "Infrastructure",
       status: "In Progress",
